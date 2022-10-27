@@ -1,0 +1,13 @@
+{
+    "[markdown]": {
+        "editor.tabCompletion": "on",
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
+        "editor.snippetSuggestions": "top"
+    },
+    
+    "grammarly.files.include": ["**/README.md", "**/readme.md", "**/*.txt"]
+}
